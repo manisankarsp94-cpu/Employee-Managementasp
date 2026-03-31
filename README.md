@@ -5,7 +5,7 @@ It allows administrators to manage employee records, view employee details, and 
 
 **Features**
 
-- Employee Management: Add, edit, delete, and view employee details.
+- Employee Management: Add, edit, delete, and view employee details into the application.
 - Database Integration: Uses an SQL Server database to store employee information.
 - User Authentication: Login functionality for secure access.
 - Responsive UI: Simple, clean, and responsive user interface built with HTML, CSS, and JavaScript.
